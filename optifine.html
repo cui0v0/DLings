@@ -90,8 +90,9 @@ function showPreview()
   else
     spanPreview.style.display = 'none'
   
-},
-    {var spanPreview = document.getElementById('useless');
+}
+function showUseNotOften()
+{var spanPreview = document.getElementById('useNotOften');
   if (spanPreview.style.display == 'none')
     spanPreview.style.display = 'inline'
   else
@@ -182,8 +183,8 @@ function showPreview()
 </tbody></table>
 </span>
 <br><br>
-<a href="javascript:showPreview();"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不常用Minecraft版本的OptiFine</font></font></a>
-<span id="useless" style="display: inline;">
+<a href="javascript:showUseNotOften();"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不常用Minecraft版本的OptiFine</font></font></a>
+<span id="useNotOften" style="display: inline;">
 <table class="downloadTable">
 <tbody>
 <tr class="downloadLine">

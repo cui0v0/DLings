@@ -72,7 +72,7 @@
       <tbody><tr>
         <td class="title">
           <!-- Title -->
-          <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OptiFine</font></font>
+          <a href="./index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OptiFine</font></font></a>
         </td>
       </tr>
       <tr>
@@ -85,6 +85,13 @@
 function showPreview()
 {
   var spanPreview = document.getElementById('preview');
+  if (spanPreview.style.display == 'none')
+    spanPreview.style.display = 'inline'
+  else
+    spanPreview.style.display = 'none'
+  
+},
+    {var spanPreview = document.getElementById('useless');
   if (spanPreview.style.display == 'none')
     spanPreview.style.display = 'inline'
   else
@@ -176,7 +183,7 @@ function showPreview()
 </span>
 <br><br>
 <a href="javascript:showPreview();"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不常用Minecraft版本的OptiFine</font></font></a>
-<span id="preview" style="display: inline;">
+<span id="useless" style="display: inline;">
 <table class="downloadTable">
 <tbody>
 <tr class="downloadLine">

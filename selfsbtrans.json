@@ -252,7 +252,7 @@
   "§eClick to sell!":"§e点击以卖出！",
   "§7Sell Price":"§7卖出价",
   "§7Cost":"§7花费",
-  "§aSell Item":"§a出售物品"
+  "§aSell Item":"§a出售物品",
   "§eClick to trade!":"§e点击进行交易！",
   "§eRight-Click for more trading options!":"§e点击以查看更多交易选择！",
   "§8Cooldown":"§8冷却时间",
@@ -379,13 +379,5 @@
   "Potion Affinity Talisman":"药水护符",
   "Reforge Anvil":"锻造铁砧",
   "Remnant of the Eye":"眼之残骸"
-  
-  
-  
-
-
-
-  
-
-
+ 
 }

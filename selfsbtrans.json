@@ -1,13 +1,13 @@
 {
-  "§aYou are playing on profile:": "§a正在使用存档:",
-  "§aYour profile was changed to:": "§a你的存档切换为:",
+  "§aYou are playing on profile:": "§a你正在使用的存档：",
+  "§aYour profile was changed to:": "§a你的存档切换为：",
   "§r§eProfile switch on cooldown! Try again in": "§r§e你存档切换过于频繁! 请等待",
   "§r§cYou don't have the required items!": "§r§c你没有解锁此物品!",
   "§r§cYou haven't found this item yet!": "§r§c你没有找到过此物品",
   "§r§cYou haven't unlocked that recipe!": "§r§c你没有解锁此物品配方",
 
   "§eClick to open!": "§e点击打开!",
-  "§7Recipe Book Unlocked:": "§7已解锁的配方",
+  "§7Recipes Unlocked:": "§7已解锁的配方",
   "§7Trades Unlocked:": "§7已解锁的交易",
   "§7Collection Unlocked:": "§7已解锁的收集项",
   "§aQuest Log":"§a任务日志",
@@ -19,12 +19,14 @@
   "§7Teleports you back to your":"§7回到你的",
   "§7private island.":"§a岛屿",
   "§eClick to warp!":"§e点击传送",
-  "§bWarp to:":"§b传送到:",
+  "§bWarp to:":"§b传送到：",
+  "§7 Private Island.":"§a私人岛屿",
 
   "§7Teleports you to the main":"§7传送你到:",
   "§7hub.":"§7主大厅",
   "§7View and edit your SkyBlock":"§7展示和编辑你的SB",
   "§7settings.":"§7设置。",
+
 
 
 
@@ -52,6 +54,7 @@
   "§7item to unlock rewards on your":"§7的过程中收集更多物品",
   "§7way to becoming a master of":"§7解锁更多的奖励",
   "§7SkyBlock!":"<remove>",
+  "§aSkyBlock Menu §7(Right Click)":"§aSkyBlock菜单§7（右键点击打开）",
 
   "§f§lCOMMON":"§f§l普通",
   "§a§lUNCOMMON":"§a§l精良",
@@ -82,7 +85,7 @@
   "§7§eClick to view your profile!":"§7§e点击浏览你的信息!",
 
   "§aYour SkyBlock Profile":"§a你的Skyblock信息",
-
+  "My Profile":"我的信息",
 
 
   "§7View your active quests,":"§7浏览你当前的",
@@ -105,12 +108,12 @@
 
   "§7Opens the crafting grid.":"§7打开工作台",
 
-  "§7View your Hypixel quests,":"§7展示你的 hypixel 任务",
-  "§7achievements, activate Network":"§7成就 加成 和更多",
+  "§7View your Hypixel quests,":"§7浏览你的Hypixel任务",
+  "§7achievements, activate Network":"§7成就，加成及更多",
   "§7Boosters, and more!":"<remove>",
 
 
-  "§aMy Hypixel Profile":"§a我的hypixel信息",
+  "§aMy Hypixel Profile":"§a我的Hypixel信息",
 
   "§7A useful bag which can hold":"§7这个鱼饵包可以装下",
   "§7all types of fish and bait!":"§7任何种类的鱼及鱼饵!",
@@ -148,6 +151,7 @@
   "§eClick to manage!":"§e点击管理",
   "§aProfile Management":"§a存档管理",
   "§cClose":"§c关闭",
+  "SkyBlock Menu":"SkyBlock菜单",
 
 
   "§aSettings":"§a设置",
@@ -156,14 +160,16 @@
 
 
   "§aPotion Bag":"§a药水袋",
-  "§7A special bag which can":"§7这是一个可以装下",
-  "§7hold Talismans, Rings,":"§7护身符 戒指 宝物.....",
+  "§7A special bag which can":"§7这是可以装下",
+  "§7hold Talismans, Rings,":"§7护身符，戒指，宝物……的一个特别的背包",
   "§7Artifacts and Orbs within":"§7的袋子",
   "§7it. All will still work":"<remove>",
   "§7while in this bag!":"<remove>",
+  "§8Progress:":"§8进展：",
+  "§eClick to view rewards!":"§e点击以浏览奖励！",
 
 
-  "§aTalisman Bag":"§a护身符背包",
+  "§aTalisman Bag":"§a护身符包",
 
   "--------------------附魔-----------------------":"------------------------------------------------------------------",
   "§9Luck of the Sea": "§9海之眷顾",
@@ -229,27 +235,28 @@
   "§7Health:":"§7生命",
   "§7Defense:":"§7防御",
   "§7Speed:":"§7速度",
-  "§7Intelligence:":"§7魔法",
+  "§7Intelligence:":"§7法力",
+  "§8Brewing Ingredient":"§8酿造原料",
 
   "§6§lCOLLECTION LEVEL UP":"§6§l收集项目升级",
   "§a§lREWARD":"§a§l奖励",
   "§7Recipe":"§7配方",
+  "§7Trade":"§7交易",
   "§aUsed":"§a使用了",
-  "Mana":"法力值",
+  "Mana)":"法力值）",
   "§6Speed Boost":"§6速度提升",
   "§b(":"§b（",
-  ")":"）",
-  "§aYou earned":"§a你通过游玩SkyBlock获得了",
-  "§bBattle Pass EXP":"§b战斗通行证经验",
-  "§afrom playing SkyBlock":"<remove>",
+  "§aYou earned ":"§a你通过游玩SkyBlock获得了",
+  "Battle Pass EXP":"战斗通行证经验",
+  "§afrom playing SkyBlock!":"！",
   "§cYou do not have enough mana to do this!":"§c你没有足够的法力值来使用此技能！",
   "§cYour inventory does not have enough free space to add all items!":"§c你的物品栏没有足够的空间以装下所有这些物品！",
   "§bYou placed a minion!":"§b你放下了一个仆从！",
   "§cYou need to place this next to a minion!":"你需要靠近一个仆从以放置这个方块！",
-  "§aYou picked up a minion!":"§a你拿起了一个仆从！",
+  "You picked up a minion!":"§a你拿起了一个仆从！",
   "You currently have":"你目前有",
   "out of a maximum of":"个仆从已被放置，最多可放置",
-  "minions placed.":"个仆从",
+  "minions placed.":"个仆从。",
   "§aCraft":"合成",
   "§amore unique Minions to unlock your":"§a更多不同种类的仆从以解锁你的",
   "Minion slot":"仆从位",
@@ -265,10 +272,8 @@
   "You now have ":"现在你的银行账户里有",
   "§ain your account!":"§a！",
   "was killed by":"被击杀因为",
-  ":":"：",
   "§aClick to browse! ?":"点击以浏览！？",
   "§6§lUp to":"§6§l最高折扣",
-  "OFF":"<remove>",
   "§4[WATCHDOG ANNOUNCEMENT]":"§4[看门狗通告]",
   "§fWatchdog has banned ":"§f在过去的七天中，看门狗已经封禁了",
   "§fplayers in the last 7 days.":"§f名玩家。",
@@ -278,8 +283,11 @@
   "§cBlacklisted modifications are a bannable offense!":"§c使用列入黑名单的修改内容是可被封禁的一种！",
   "Healing Boost":"恢复加成",
   "§6Item Ability":"§6物品技能",
-  "Ender Warp":"末影传送",
-  "Instant Transmission":"瞬息折跃",
-  "Tempest":"箭雨"
+  " Ender Warp":"末影传送",
+  " Instant Transmission":"瞬息折跃",
+  " Tempest":"箭雨",
+  "§e§lRIGHT CLICK":"§e§l右键使用",
+  " Absorb":"岩浆护体"
+
 
 }

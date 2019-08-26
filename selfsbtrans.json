@@ -20,9 +20,6 @@
   "§7private island.":"§a岛屿",
   "§eClick to warp!":"§e点击传送",
   "§bWarp to:":"§b传送到:",
-  
-  "§bYour inventory does not have enough free space to add all items!":"
-
 
   "§7Teleports you to the main":"§7传送你到:",
   "§7hub.":"§7主大厅",
@@ -252,7 +249,7 @@
   "§aYou picked up a minion!":"§a你拿起了一个仆从！",
   "You currently have":"你目前有",
   "out of a maximum of":"个仆从已被放置，最多可放置",
-  "minions placed.":"仆从",
+  "minions placed.":"个仆从",
   "§aCraft":"合成",
   "§amore unique Minions to unlock your":"§a更多不同种类的仆从以解锁你的",
   "Minion slot":"仆从位",

@@ -254,7 +254,7 @@
   "out of a maximum of":"个仆从已被放置，最多可放置",
   "minions placed.":"仆从",
   "§aCraft":"合成",
-  "§amore unique Minions to unlock your":"§a更多不同种类的仆从以解锁你的"
+  "§amore unique Minions to unlock your":"§a更多不同种类的仆从以解锁你的",
   "Minion slot":"仆从位",
   "!":"！",
   "§aWarped from the":"§a从",
@@ -278,15 +278,11 @@
   "§fStaff have banned an additional":"§f在过去的七天中管理员/志愿者已经额外地封禁了",
   "§fin the past 7 days.":"§f名玩家。",
   "§cThis Minion does not have any items stored!":"§c这个仆从没有背包中存储任何物品！",
-  "§cBlacklisted modifications are a bannable offense!":"§c使用列入黑名单的修改内容是可被封禁的一种！"
+  "§cBlacklisted modifications are a bannable offense!":"§c使用列入黑名单的修改内容是可被封禁的一种！",
   "Healing Boost":"恢复加成",
   "§6Item Ability":"§6物品技能",
   "Ender Warp":"末影传送",
   "Instant Transmission":"瞬息折跃",
   "Tempest":"箭雨"
-
-
-
-
 
 }

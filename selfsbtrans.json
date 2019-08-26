@@ -1,0 +1,292 @@
+{
+  "§aYou are playing on profile:": "§a正在使用存档:",
+  "§aYour profile was changed to:": "§a你的存档切换为:",
+  "§r§eProfile switch on cooldown! Try again in": "§r§e你存档切换过于频繁! 请等待",
+  "§r§cYou don't have the required items!": "§r§c你没有解锁此物品!",
+  "§r§cYou haven't found this item yet!": "§r§c你没有找到过此物品",
+  "§r§cYou haven't unlocked that recipe!": "§r§c你没有解锁此物品配方",
+
+  "§eClick to open!": "§e点击打开!",
+  "§7Recipe Book Unlocked:": "§7已解锁的配方",
+  "§7Trades Unlocked:": "§7已解锁的交易",
+  "§7Collection Unlocked:": "§7已解锁的收集项",
+  "§aQuest Log":"§a任务日志",
+  "§aTrades":"§a交易",
+  "§aRecipe Book":"§a配方书",
+  "§aCrafting Table":"§a工作台",
+  "§aQuiver":"§a箭袋",
+
+  "§7Teleports you back to your":"§7回到你的",
+  "§7private island.":"§a岛屿",
+  "§eClick to warp!":"§e点击传送",
+  "§bWarp to:":"§b传送到:",
+  
+  "§bYour inventory does not have enough free space to add all items!":"
+
+
+  "§7Teleports you to the main":"§7传送你到:",
+  "§7hub.":"§7主大厅",
+  "§7View and edit your SkyBlock":"§7展示和编辑你的SB",
+  "§7settings.":"§7设置。",
+
+
+
+
+  "§r§f§lWelcome to SkyBlock,": "§r§f§l欢迎来到SkyBlock,§r<center>",
+  "§r§eThis is your island! The SkyBlock§r": "§r§e这是你的小岛! 在这里§r<center>",
+  "§r§euniverse has many lands to discover,§r": "§r§e有很多岛屿需要你去探索,§r<center>",
+  "§r§esecrets to uncover, and people to meet.§r": "§r§e有很多秘密需要你去发现,还有和这儿的人们对话§r<center>",
+  "§r§eCollect resources, craft items, and§r": "§r§e收集资源 制作物品§r<center>",
+  "§r§ecomplete objectives to advance your way§r": "§r§e在变得更强的道路上 同时完成任务§r<center>",
+  "§r§ethrough SkyBlock.§r": "§r§e通过SkyBlock.§r<center>",
+  "§r§eHave fun!§r": "§r§e祝玩的开心！§r<center>",
+  "§r§aYou received":"§r§a你收到了",
+  "§r§a§aYou have just received":"§r§a你刚收到了",
+  "§r§aas bank interest!§r":"§r§a利息",
+
+  "--------------------物品-----------------------":"------------------------------------------------------------------",
+  "§eClick to view!":"§e点击展示",
+  "§7View your Skill progression and":"§7展示你的技能等级和",
+  "§7rewards.":"§7奖励",
+  "§aYour Skills":"§a技能",
+  "§aCollection":"§a收集",
+  "§7View all of the items available":"§7展示你所有可以在SkyBlock",
+  "§7in SkyBlock. Collect more of an":"§7中制作的物品. 在你发展",
+  "§7item to unlock rewards on your":"§7的过程中收集更多物品",
+  "§7way to becoming a master of":"§7解锁更多的奖励",
+  "§7SkyBlock!":"<remove>",
+
+  "§f§lCOMMON":"§f§l普通",
+  "§a§lUNCOMMON":"§a§l精良",
+  "§9§lRARE":"§9§l稀有",
+  "§5§lEPIC":"§5§l史诗",
+  "§6§lLEGENDARY":"§6§l传奇",
+  "§d§lSPECIAL":"§d§l特殊",
+
+  "§7Through your adventure, you will":"§7通过你的冒险你将解锁",
+  "§7unlock recipes for all kinds of":"§7这些特殊物品的配方",
+  "§7special items! You can view how":"§7你可以在这里查看",
+  "§7to craft these items here.":"§7如何制作这些物品",
+
+
+  "§7View your available trades.":"§7展示你可以交易的物品",
+  "§7These trades are always":"§7交易没有次数限制",
+  "§7available and accessible through":"§7你可以使用SB菜单",
+  "§7the SkyBlock Menu.":"§7访问",
+
+
+  "§c❤ Health":"§c❤ 生命",
+  "§a❈ Defense":"§a❈ 防御",
+  "§c❁ Strength":"§c❁ 力量",
+  "§f✦ Speed":"§f✦ 速度",
+  "§9☣ Crit Chance":"§9☣ 暴击几率",
+  "§9☠ Crit Damage":"§9☠ 暴击伤害",
+  "§b✎ Intelligence":"§b✎ 魔法",
+  "§7§eClick to view your profile!":"§7§e点击浏览你的信息!",
+
+  "§aYour SkyBlock Profile":"§a你的Skyblock信息",
+
+
+
+  "§7View your active quests,":"§7浏览你当前的",
+  "§7progress, and rewards.":"§7任务，进展和奖励。",
+
+
+  "§7View upcoming events in":"§7浏览即将到来的活动",
+
+  "§7Next Event:":"§7下一个活动",
+  "§7Starting in":"§7还剩",
+
+
+  "§aUpcoming Events":"§a活动预告",
+  "§7Store global items that you want":"§7在任何时间存储任何你",
+  "§7to access at any time from":"§7想要存储的物品",
+  "§7anywhere here.":"<remove>",
+
+  "§aEnder Chest":"§a末影箱",
+
+
+  "§7Opens the crafting grid.":"§7打开工作台",
+
+  "§7View your Hypixel quests,":"§7展示你的 hypixel 任务",
+  "§7achievements, activate Network":"§7成就 加成 和更多",
+  "§7Boosters, and more!":"<remove>",
+
+
+  "§aMy Hypixel Profile":"§a我的hypixel信息",
+
+  "§7A useful bag which can hold":"§7这个鱼饵包可以装下",
+  "§7all types of fish and bait!":"§7任何种类的鱼及鱼饵!",
+
+
+  "§aFishing Bag":"§a鱼饵包",
+  "§7A masterfully crafted":"§7这是一个精致的箭袋它可以",
+  "§7Quiver which holds any kind":"§7装下你可以想到的",
+  "§7of projectile you can think":"§7任何投掷物",
+  "§7of!":"<remove>",
+
+  "§7§7Keep at least 1 arrow in":"§7你的背包中会一直有一只箭",
+  "§7your inventory as there may":"§7因为在你切换弓的时候",
+  "§7be a shooting delay when":"§7可能会有延迟",
+  "§7switching to a Bow.":"<remove>",
+
+  "§7View the Hypixel Game Menu.":"§7显示Hypixel游戏菜单",
+
+
+  "§aHypixel Game Menu":"§aHypixel游戏菜单",
+
+
+  "§7You can have multiple":"§7你可以同时拥有",
+  "§7Skyblock profiles at the":"§7多个存档",
+  "§7same time.":"<remove>",
+
+  "§7Each profile has its own":"§7每个存档都有自己的",
+  "§7island, inventory, quest":"§7岛屿，背包，任务，日志……",
+  "§7log...":"<remove>",
+  "§7Profiles:":"§7存档：",
+  "§7Playing on:":"§7当前存档：",
+
+  "§bPlay with friends using /coop!":"§b使用/coop命令来和朋友一起游玩",
+
+  "§eClick to manage!":"§e点击管理",
+  "§aProfile Management":"§a存档管理",
+  "§cClose":"§c关闭",
+
+
+  "§aSettings":"§a设置",
+  "§7A handy bag for holding":"§7这个小巧的袋子可以装下",
+  "§7your Potions in.":"§7任何药水",
+
+
+  "§aPotion Bag":"§a药水袋",
+  "§7A special bag which can":"§7这是一个可以装下",
+  "§7hold Talismans, Rings,":"§7护身符 戒指 宝物.....",
+  "§7Artifacts and Orbs within":"§7的袋子",
+  "§7it. All will still work":"<remove>",
+  "§7while in this bag!":"<remove>",
+
+
+  "§aTalisman Bag":"§a护身符背包",
+
+  "--------------------附魔-----------------------":"------------------------------------------------------------------",
+  "§9Luck of the Sea": "§9海之眷顾",
+  "§9§9Cleave":"§9横扫之刃",
+  "§9Critical":"§9暴击",
+  "§9Cubism":"§9方块杀手",
+  "§9Ender Slayer":"§9末影杀手",
+  "§9Execute":"§9斩杀",
+  "§9Experience":"§9经验",
+  "§9First Strike":"§9先制",
+  "§9Giant Killer":"§9巨人杀手",
+  "§9Impaling":"§9穿刺",
+  "§9Lethality":"§9破甲",
+  "§9Life Steal":"§9生命偷取",
+  "§9Luck":"§9饵钓",
+  "§9Scavenger":"§9搜刮",
+  "§9Thunderlord":"§9雷击",
+  "§9Telekinesis":"§9遥感",
+  "§9Vampirism":"§9吸血",
+  "§9Venomous":"§9淬毒",
+  "§9Growth":"§9生长",
+  "§9Aiming":"§9自瞄",
+  "§9Dragon Hunter":"§9龙之杀手",
+  "§9Infinite Quiver":"§9无限箭袋",
+  "§9Piercing":"§9穿透",
+  "§9Snipe":"§9狙击",
+  "§9Harvesting":"§9丰收",
+  "§9Rainbow":"§9彩虹",
+  "§9Smelting Touch":"§9冶炼采集",
+  "§9Angler":"§9垂钓",
+  "§9Blessing":"§9海之恩惠",
+  "§9Caster":"§9投饵",
+  "§9Frail":"§9致残",
+  "§9Magnet":"§9经验磁石",
+  "§9Spiked Hook":"§9棘竿",
+  "§9Bane of Anthropods":"§9节肢杀手",
+  "§9Looting":"§9抢夺",
+  "§9Fire Aspect":"§9火焰附加",
+  "§9Knockback":"§9击退",
+  "§9Sharpness":"§9锋利",
+  "§9Smite":"§9亡灵杀手",
+  "§9Aqua Affinity":"§9水下速掘",
+  "§9Blast Protection":"§9穿透",
+  "§9Depth Strider":"§9深海探索者",
+  "§9Feather Falling":"§9摔落保护",
+  "§9Fire Protection":"§9火焰保护",
+  "§9Frost Walker":"§9冰霜行者",
+  "§9Projectile Protection":"§9弹射物保护",
+  "§9Protection":"§9保护",
+  "§9Respiration":"§9水下呼吸",
+  "§9Thorns":"§9荆棘",
+  "§9Flame":"§9火矢",
+  "§9Power":"§9力量",
+  "§9Punch":"§9冲击",
+  "§9Efficiency":"§9效率",
+  "§9Fortune":"§9时运",
+  "§9Silk Touch":"§9精准采集",
+
+
+  "§7Damage:":"§7伤害",
+  "§7Strength:":"§7力量",
+  "§7Crit Chance:":"§7暴击几率",
+  "§7Health:":"§7生命",
+  "§7Defense:":"§7防御",
+  "§7Speed:":"§7速度",
+  "§7Intelligence:":"§7魔法",
+
+  "§6§lCOLLECTION LEVEL UP":"§6§l收集项目升级",
+  "§a§lREWARD":"§a§l奖励",
+  "§7Recipe":"§7配方",
+  "§aUsed":"§a使用了",
+  "Mana":"法力值",
+  "§6Speed Boost":"§6速度提升",
+  "§b(":"§b（",
+  ")":"）",
+  "§aYou earned":"§a你通过游玩SkyBlock获得了",
+  "§bBattle Pass EXP":"§b战斗通行证经验",
+  "§afrom playing SkyBlock":"<remove>",
+  "§cYou do not have enough mana to do this!":"§c你没有足够的法力值来使用此技能！",
+  "§cYour inventory does not have enough free space to add all items!":"§c你的物品栏没有足够的空间以装下所有这些物品！",
+  "§bYou placed a minion!":"§b你放下了一个仆从！",
+  "§cYou need to place this next to a minion!":"你需要靠近一个仆从以放置这个方块！",
+  "§aYou picked up a minion!":"§a你拿起了一个仆从！",
+  "You currently have":"你目前有",
+  "out of a maximum of":"个仆从已被放置，最多可放置",
+  "minions placed.":"仆从",
+  "§aCraft":"合成",
+  "§amore unique Minions to unlock your":"§a更多不同种类的仆从以解锁你的"
+  "Minion slot":"仆从位",
+  "!":"！",
+  "§aWarped from the":"§a从",
+  "Teleport Pad":"传送板",
+  "§ato the ":"§a传送至",
+  "Co-op":"合作模式",
+  "§aYou sold":"§a你出售了",
+  "Coins":"硬币",
+  "§8Depositing coins...":"§8存钱中…",
+  "§aYou have deposited":"§a你存入了",
+  "You now have ":"现在你的银行账户里有",
+  "§ain your account!":"§a！",
+  "was killed by":"被击杀因为",
+  ":":"：",
+  "§aClick to browse! ?":"点击以浏览！？",
+  "§6§lUp to":"§6§l最高折扣",
+  "OFF":"<remove>",
+  "§4[WATCHDOG ANNOUNCEMENT]":"§4[看门狗通告]",
+  "§fWatchdog has banned ":"§f在过去的七天中，看门狗已经封禁了",
+  "§fplayers in the last 7 days.":"§f名玩家。",
+  "§fStaff have banned an additional":"§f在过去的七天中管理员/志愿者已经额外地封禁了",
+  "§fin the past 7 days.":"§f名玩家。",
+  "§cThis Minion does not have any items stored!":"§c这个仆从没有背包中存储任何物品！",
+  "§cBlacklisted modifications are a bannable offense!":"§c使用列入黑名单的修改内容是可被封禁的一种！"
+  "Healing Boost":"恢复加成",
+  "§6Item Ability":"§6物品技能",
+  "Ender Warp":"末影传送",
+  "Instant Transmission":"瞬息折跃",
+  "Tempest":"箭雨"
+
+
+
+
+
+}

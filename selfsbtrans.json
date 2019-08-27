@@ -353,7 +353,6 @@
   "§7View all of the Alchemy Recipes":"§7浏览所有你已解锁的酿造衍生物品配方！",
   "§aCarpentry Recipes":"§a木匠衍生物品配方",
   "§7View all of the Carpentry Recipes":"§7浏览所有你已解锁的木匠衍生物品配方！",
-  
   "§7that you have unlocked!":"<remove>",
  
   "§aAlchemy":"§a酿造",
@@ -425,7 +424,7 @@
   "Carrot Bait":"胡萝卜鱼饵",
   "Carrot Candy":"萝卜糖",
   "Catalyst":"催化之星",
-  "§fCobblestone Wall":"§f原石墙",
+  "§fCobblestone Wall":"§f圆石墙",
   "Catching Egg":"捕捉蛋",
   "Compactor":"打包机",
   "Compass Talisman":"指南针护符",
@@ -463,7 +462,6 @@
   "§fEnchanted Red Mushroom":"§f附魔红色蘑菇",
   "§fEnchanted Brown Mushroom":"§f附魔棕色蘑菇",
   
-  
   "§9Wheat Minion":"§9小麦仆从",
   "§9Carrot Minion":"§9胡萝卜仆从",
   "§9Potato Minion":"§9马铃薯仆从",
@@ -475,8 +473,7 @@
   
   "§fPortal to to the Barn":"§f谷仓传送门",
   "§fPortal to to Mushroom Island":"§f蘑菇岛屿传送门",
-  
-  
+
   "§7Farming Experience":"§7务农经验",
   
   "Enchanted Hopper":"附魔漏斗",
@@ -496,7 +493,7 @@
   
   "§5Venomous Potion":"§5剧毒药水",
   "§fVenomous Potions":"§f剧毒药水",
-  "§c肾上腺素 Potion":"§5肾上腺素药水",
+  "§c肾上腺素 Potion":"§c肾上腺素药水",
   "§f肾上腺素 Potions":"§5肾上腺素药水",
   
   "Haste Ring":"急迫指环",
@@ -519,7 +516,7 @@
   "Perfect Hopper":"完美漏斗",
   "Pet Food":"宠物饲料",
   "§aPiggy Bank":"§a小猪存钱罐",
-  "§9Pig's Foot":"§1猪蹄",
+  "§9Pig's Foot":"§9猪蹄",
   "Pond Island":"池塘岛",
   "§fAcacia Wood Plank":"§f金合欢木板",
   "§fOak Wood Plank":"§f橡木木板",

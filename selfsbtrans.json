@@ -18,6 +18,7 @@
   "§aRecipe Book":"§a配方书",
   "§aCrafting Table":"§a工作台",
   "§aQuiver":"§a箭袋",
+  "§7Progress: ":"§7进展：",
 
   "§7Teleports you back to your":"§7传送回到你的",
   "§7private island.":"§a岛屿",
@@ -318,6 +319,7 @@
   "§cBlacklisted modifications are a bannable offense!":"§c使用列入黑名单的修改内容是可被封禁的一种！",
   "§cYou can't use this while in combat!":"§c你在战斗时不能进行此操作！",
   "§l§cSALE":"§l§c出售",
+  " §8(§4COMING SOON§8)":"§8（§4即将推出§8）",
   "§cThis ability is currently on cooldown for 3 more sore seconds.":"§c这个技能目前还要冷却3秒。",
   "§cThis ability is currently on cooldown for 2 more sore seconds.":"§c这个技能目前还要冷却2秒。",
   "§cThis ability is currently on cooldown for 1 more sore seconds.":"§c这个技能目前还要冷却1秒。",
@@ -449,10 +451,44 @@
   "§aEnchanted Spider Eye":"§a附魔蜘蛛眼",
   "§aEnchanted Cobblestone":"§a附魔圆石",
   "§aEnchanted Hay Bale":"§a附魔干草堆",
+  "§aEnchanted Ghast Tear":"§a附魔恶魂之泪",
+  "§aEnchanted Raw Fish":"§a附魔生鱼",
+  "§aEnchanted Carrot":"§a附魔胡萝卜",
+  "§aEnchanted Carrot on a Stick":"§a附魔胡萝卜钓竿",
+  "§aEnchanted Golden Carrot":"§a附魔金胡萝卜",
+  "§aEnchanted Potato":"§a附魔马铃薯",
+  "§aEnchanted Baked Potato":"§a附魔烤马铃薯",
+  "§aEnchanted Pumpkin":"§a附魔南瓜",
+  "§aEnchanted Potato":"§a附魔马铃薯",
+  "§aEnchanted Melon":"§a附魔西瓜",
+  "§9Enchanted Glistering Melon":"§9附魔闪烁的西瓜",
+  "§9Enchanted Melon Block":"§9附魔西瓜块",
+  "§9Enchanted Cookie":"§9附魔曲奇",
+  "§aEnchanted Cocoa Bean":"§a附魔可可豆",
+  "§fEnchanted Red Mushroom":"§f附魔红色蘑菇",
+  "§fEnchanted Brown Mushroom":"§f附魔棕色蘑菇",
+  
+  
+  "§9Wheat Minion":"§9小麦仆从",
+  "§9Carrot Minion":"§9胡萝卜仆从",
+  "§9Potato Minion":"§9马铃薯仆从",
+  "§9Melon Minion":"§9西瓜仆从",
+  "§9Pumpkin Minion":"§9南瓜仆从",
+  "§9Mushroom Minion":"§9蘑菇仆从",
+  "§9Cocoa Beans Minion":"§9可可豆仆从",
+  "§9Pumpkin Minion":"§9南瓜仆从",
+  "§9Pumpkin Minion":"§9南瓜仆从",
+  
+  "§fPortal to to the Barn":"§f谷仓传送门",
+  "§fPortal to to Mushroom Island":"§f蘑菇岛屿传送门",
+  
+  
+  "§7Farming Experience":"§7务农经验",
+  
   "Enchanted Hopper":"附魔漏斗",
   "Ender Artifact":"末影圣物",
-  "Farmer Orb":"农夫宝珠",
-  "Farming Crystal":"农业水晶",
+  "§aFarmer Orb":"§a农夫宝珠",
+  "§9Farm Crystal":"§9农业水晶",
   "Farming Island":"农业岛",
   "Farming Talisman":"农业护符",
   "Feather Talisman":"羽毛护符",
@@ -463,11 +499,18 @@
   "§fHay Bale":"§f干草堆",
   "§aMusic Disc":"§a音乐唱片",
   "Haste Block":"急速方块",
+  
+  "§5Venomous Potion":"§5剧毒药水",
+  "§fVenomous Potions":"§f剧毒药水",
+  "§c肾上腺素 Potion":"§5肾上腺素药水",
+  "§f肾上腺素 Potions":"§5肾上腺素药水",
+  
   "Haste Ring":"急迫指环",
+  "§5Bat Pet Egg":"§5蝙蝠宠物蛋",
   "Healing Talisman":"恢复护符",
   "Hot Potato Book":"烫手山芋书",
   "Imtimidation Talisman":"驱散护符",
-  "Lantern Helmet":"南瓜灯头盔",
+  "§aLantern Helmet":"§a南瓜灯头盔",
   "Launcher Pad":"弹射板",
   "Lava Talisman":"熔岩护符",
   "Light Bait":"光明鱼饵",
@@ -497,6 +540,9 @@
   "§fMutton":"§f生羊肉",
   "Potion Affinity Talisman":"药水护符",
   "Reforge Anvil":"锻造铁砧",
+  "§fRed Mushroom Block":"§f红色蘑菇块",
+  "§fLong Grass":"§f草",
+  "§fBrown Mushroom Block":"§f棕色蘑菇块",
   "Remnant of the Eye":"眼之残骸",
   "Scavenger Talisman":"搜刮护符",
   "Sea Creature Talisman":"海怪护符",
@@ -531,7 +577,9 @@
   "§f史莱姆方块":"§f粘液块",
   " 錾制石砖":"錾制石砖",
   "§f桦木":"白桦木",
-  "§f种子":"§f小麦种子"
+  "§f种子":"§f小麦种子",
+  "§e土豆":"§e马铃薯",
+  "§f双草丛":"§f高草丛"
  
 
 

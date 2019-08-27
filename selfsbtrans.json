@@ -40,10 +40,7 @@
   "§r§ethrough SkyBlock.§r": "§r§e通过SkyBlock.§r<center>",
   "§r§eHave fun!§r": "§r§e祝玩的开心！§r<center>",
   "§r§aYou received":"§r§a你收到了",
-  "§r§a§aYou have just received":"§r§a你刚收到了",
-  "§r§aas bank interest!§r":"§r§a利息",
 
-  "--------------------物品-----------------------":"------------------------------------------------------------------",
   "§eClick to view!":"§e点击浏览！",
   "§7View your Skill progression and":"§7浏览你的技能等级和",
   "§7rewards.":"§7奖励。",
@@ -68,12 +65,10 @@
   "§7special items! You can view how":"§7你可以在这里查看",
   "§7to craft these items here.":"§7如何制作这些物品",
 
-
   "§7View your available trades.":"§7展示你可以交易的物品",
   "§7These trades are always":"§7交易没有次数限制",
   "§7available and accessible through":"§7你可以使用SB菜单",
   "§7the SkyBlock Menu.":"§7访问",
-
 
   "§c❤ Health":"§c❤ 血量",
   "§a❈ Defense":"§a❈ 防御",
@@ -87,16 +82,13 @@
   "§aYour SkyBlock Profile":"§a你的Skyblock信息",
   "My Profile":"我的信息",
 
-
   "§7View your active quests,":"§7浏览你当前的",
   "§7progress, and rewards.":"§7任务，进展和奖励。",
-
 
   "§7View upcoming events in":"§7浏览即将到来的活动",
 
   "§7Next Event:":"§7下一个活动",
   "§7Starting in":"§7还剩",
-
 
   "§aUpcoming Events":"§a活动预告",
   "§7Store global items that you want":"§7在任何时间存储任何你",
@@ -105,19 +97,16 @@
 
   "§aEnder Chest":"§a末影箱",
 
-
   "§7Opens the crafting grid.":"§7打开工作台",
 
   "§7View your Hypixel quests,":"§7浏览你的Hypixel任务",
   "§7achievements, activate Network":"§7成就，加成及更多",
   "§7Boosters, and more!":"<remove>",
 
-
   "§aMy Hypixel Profile":"§a我的Hypixel信息",
 
   "§7A useful bag which can hold":"§7这个鱼饵包可以装下",
   "§7all types of fish and bait!":"§7任何种类的鱼及鱼饵!",
-
 
   "§aFishing Bag":"§a鱼饵包",
   "§7A masterfully crafted":"§7这是一个精致的箭袋它可以",
@@ -131,7 +120,6 @@
   "§7switching to a Bow.":"<remove>",
 
   "§7View the Hypixel Game Menu.":"§7显示Hypixel游戏菜单",
-
 
   "§aHypixel Game Menu":"§aHypixel游戏菜单",
 
@@ -171,10 +159,8 @@
   "§8Progress:":"§8进展：",
   "§eClick to view rewards!":"§e点击以浏览奖励！",
 
-
   "§aTalisman Bag":"§a护身符包",
 
-  "--------------------附魔-----------------------":"------------------------------------------------------------------",
   "§9Luck of the Sea":"§9海之眷顾",
   "§9Cleave":"§9横扫之刃",
   "§9Critical":"§9暴击",
@@ -385,7 +371,6 @@
   "§7Trade":"§7交易",
   
   "§8Mana Cost:":"§8消耗法力值：",
-  "§7Anvil Uses":"§7铁砧使用次数",
   "§8Kills: ":"§8击杀数：",
   "§82 Second Cooldown":"§82秒冷却时间",
   
@@ -469,7 +454,6 @@
   "§9Pumpkin Minion":"§9南瓜仆从",
   "§9Mushroom Minion":"§9蘑菇仆从",
   "§9Cocoa Beans Minion":"§9可可豆仆从",
-  "§9Pumpkin Minion":"§9南瓜仆从",
   
   "§fPortal to to the Barn":"§f谷仓传送门",
   "§fPortal to to Mushroom Island":"§f蘑菇岛屿传送门",
@@ -481,7 +465,7 @@
   "§aFarmer Orb":"§a农夫宝珠",
   "§9Farm Crystal":"§9农业水晶",
   "Farming Island":"农业岛",
-  "Farming Talisman":"农业护符",
+  "Farm Talisman":"农业护符",
   "Feather Talisman":"羽毛护符",
   "Fire Talisman":"火焰护符",
   "Fish Bait":"大鱼鱼饵",

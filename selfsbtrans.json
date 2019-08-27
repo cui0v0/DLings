@@ -320,10 +320,6 @@
   "§cYou can't use this while in combat!":"§c你在战斗时不能进行此操作！",
   "§l§cSALE":"§l§c出售",
   " §8(§4COMING SOON§8)":"§8（§4即将推出§8）",
-  "§cThis ability is currently on cooldown for 3 more sore seconds.":"§c这个技能目前还要冷却3秒。",
-  "§cThis ability is currently on cooldown for 2 more sore seconds.":"§c这个技能目前还要冷却2秒。",
-  "§cThis ability is currently on cooldown for 1 more sore seconds.":"§c这个技能目前还要冷却1秒。",
-  "§cThis ability is currently on cooldown for 0 more sore seconds.":"§c这个技能目前还要冷却0秒。",
   "§b§lSKILL LEVEL UP":"§b§l技能升级",
   
   "§aFarming":"§a务农",
@@ -424,7 +420,6 @@
   "§fBlock of Iron":"§f铁块",
   "§fBlock of Diamond":"§f钻石块",
   "§fBlock of Gold":"§f金块",
-  
   "Bridge Egg":"搭桥蛋",
   "Budget Hopper":"经济漏斗",
   "Carrot Bait":"胡萝卜鱼饵",
@@ -440,6 +435,7 @@
   "Desert Island":"沙漠岛屿",
   "Diamond Refinery":"钻石提炼术",
   "Experience Artifact":"经验圣物",
+  
   "§fEnchanted Bread":"§f附魔面包",
   "§aEnchanted Magma Cream":"§a附魔岩浆膏",
   "§fEnchanted Bone":"§f附魔骨头",
@@ -459,7 +455,6 @@
   "§aEnchanted Potato":"§a附魔马铃薯",
   "§aEnchanted Baked Potato":"§a附魔烤马铃薯",
   "§aEnchanted Pumpkin":"§a附魔南瓜",
-  "§aEnchanted Potato":"§a附魔马铃薯",
   "§aEnchanted Melon":"§a附魔西瓜",
   "§9Enchanted Glistering Melon":"§9附魔闪烁的西瓜",
   "§9Enchanted Melon Block":"§9附魔西瓜块",
@@ -476,7 +471,6 @@
   "§9Pumpkin Minion":"§9南瓜仆从",
   "§9Mushroom Minion":"§9蘑菇仆从",
   "§9Cocoa Beans Minion":"§9可可豆仆从",
-  "§9Pumpkin Minion":"§9南瓜仆从",
   "§9Pumpkin Minion":"§9南瓜仆从",
   
   "§fPortal to to the Barn":"§f谷仓传送门",

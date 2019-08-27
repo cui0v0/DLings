@@ -3,7 +3,7 @@
   "§7progress, including your Skills,":"§7进展，包括你的技能，",
   "§7Collections, Recipes, and more!":"§7收集项目，配方以及更多！",
   "§aYou are playing on profile:": "§a你正在使用的存档：",
-  "§aYou are playing on profile: §e®§b(Co-op)§r": "§a你正在使用的存档：§e®§b（合作模式）",
+  "§aYou are playing on profile: §e  §b(Co-op)§r": "§a你正在使用的存档：§e®§b（合作模式）",
   "§aYour profile was changed to:": "§a你的存档切换为：",
   "§r§eProfile switch on cooldown! Try again in": "§r§e你存档切换过于频繁! 请等待®§r§e再试",
   "§r§cYou don't have the required items!": "§r§c你没有解锁此物品!",
@@ -247,8 +247,8 @@
   "§8Right Click to change this slot!":"§8右键点击以更改这个槽位！",
   
   "§aSocial Media":"§a社交媒体",
-  "§7Click to edit your Social":"点击以更改你的",
-  "§7Media links.":"社交媒体链接。",
+  "§7Click to edit your Social":"§7点击以更改你的",
+  "§7Media links.":"§7社交媒体链接。",
   
   "§aGame Menu §7(Right Click)":"§a游戏菜单§7（右键点击）",
   "§aMy Profile §7(Right Click)":"§a个人档案§7（右键点击）",

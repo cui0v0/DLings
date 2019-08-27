@@ -252,6 +252,7 @@
   "§aGame Menu §7(Right Click)":"§a游戏菜单§7（右键点击）",
   "§aMy Profile §7(Right Click)":"§a个人档案§7（右键点击）",
   "§bHype Diamond":"§bHype钻石",
+  " §ffound a ":"§f找到一个",
   
   
   "Battle Pass EXP":"战斗通行证经验",
@@ -319,8 +320,11 @@
   "§7Recipes":"§7配方",
   "§7Recipe":"§7配方",
   "§7Trade":"§7交易",
+  
   "§8Mana Cost:":"§8消耗法力值：",
   "§7Anvil Uses":"§7铁砧使用次数",
+  "§8Kills: ":"§8击杀数：",
+  "§82 Second Cooldown":"§82秒冷却时间",
   
   "§aCraft":"§a合成",
   "§amore unique Minions to unlock your":"§a更多不同种类的仆从以解锁你的",
@@ -384,7 +388,7 @@
   "Haste Ring":"急迫指环",
   "Healing Talisman":"恢复护符",
   "Hot Potato Book":"烫手山芋书",
-  "Imitation Talisman":"驱散护符",
+  "Imtimidation Talisman":"驱散护符",
   "Lantern Helmet":"南瓜灯头盔",
   "Launcher Pad":"弹射板",
   "Lava Talisman":"熔岩护符",
@@ -407,6 +411,7 @@
   "Scavenger Talisman":"搜刮护符",
   "Sea Creature Talisman":"海怪护符",
   "Skeleton Talisman":"骷髅护符",
+  "Speed Talisman":"速度护符",
   "Sleeping Eye":"沉睡之眼",
   "Slience Block":"静音方块",
   "Solar Panel":"太阳能板",
@@ -417,6 +422,7 @@
   "Stone Platform":"石头平台",
   "Small Storage":"小型扩容箱",
   "Medium Storage":"中型扩容箱",
+  "Mine Affinity Talisman":"矿井护符",
   "Large Storage":"大型扩容箱",
   "Summoning Eye":"召唤之眼",
   "Super Catching Egg":"超级抓捕蛋",
@@ -425,6 +431,7 @@
   "Talisman of Coins":"硬币护符",
   "Teleport Pad":"传送板",
   "Vaccine Talisman":"疫苗护符",
+  "Village Affinity Talisman":"村庄护符",
   "Whale Bait":"鲸鱼鱼饵",
   "Wood Affinity Talisman":"森林护符",
   "Woodcutting Crystal":"伐木水晶",

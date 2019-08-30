@@ -286,7 +286,7 @@
   "§cYou do not have enough mana to do this!":"§c你没有足够的法力来使用此技能！",
   "§cYour inventory does not have enough free space to add all items!":"§c你的物品栏没有足够的空间以装下所有这些物品！",
   "§bYou placed a minion!":"§b你放下了一个仆从！",
-  "§cYou need to place this next to a minion!":"你需要靠近一个仆从以放置这个方块！",
+  "§cYou need to place this next to a minion!":"§c你需要靠近一个仆从以放置这个方块！",
   "You picked up a minion!":"§a你拿起了一个仆从！",
   "§6§lCOLLECTION LEVEL UP":"§6§l收集项目升级",
   "§a§lREWARDS":"§a§l奖励",
@@ -297,7 +297,8 @@
   "§8Depositing coins...":"§8存钱中…",
   "§cYou can't deposit this little!":"§c你不能只存入这么一点！",
   " was killed by ":"被击杀因为",
-  " fell into the void.":"坠入虚空。",
+  "§r§7You fell into the void§r§7.":"§7你坠入了虚空。",
+  " fell into the void§r§7.":"§7坠入了虚空。",
   "§aClick to browse!":"§a点击以浏览！",
   "§eClick to sell!":"§e点击以卖出！",
   "§eClick to buy!":"§e点击以买回！",
@@ -307,6 +308,8 @@
   "§eClick to trade!":"§e点击进行交易！",
   "§eClick to show rankings!":"§e点击展示排名！",
   "§r§aUsed §r§6<value>§r§a! §r§b(<value> Mana)§r":"§a已使用§6<value>(1)§a！§b（消耗<value>(0)法力）",
+  "§r§aWarped from the §r§e<value>§r§a to the §r§c<value>§r§a!§r":"§a已从§r<target>(1)§a传送至§r<traget>(0)§a！",
+  "§r§cThere are blocks in the way!§r":"§c这个方向上有方块！"
   
   "§aCollect All":"§a收集全部",
   "§eClick to collect all items!":"§e点击以收集所有的物品！",
@@ -476,8 +479,8 @@
   "§9Mushroom Minion":"§9蘑菇仆从",
   "§9Cocoa Beans Minion":"§9可可豆仆从",
   
-  "§fPortal to to the Barn":"§f谷仓传送门",
-  "§fPortal to to Mushroom Island":"§f蘑菇岛屿传送门",
+  "§fPortal to the Barn":"§f谷仓传送门",
+  "§fPortal to Mushroom Island":"§f蘑菇岛屿传送门",
 
   "§7Farming Experience":"§7务农经验",
   

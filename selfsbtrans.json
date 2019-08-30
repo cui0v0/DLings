@@ -293,7 +293,7 @@
   "§a§lREWARD":"§a§l奖励",
   "(Co-op)":"（合作模式）",
   "§aYou sold":"§a你出售了",
-  "§r§aYou have deposited §r§6<value>§r§a! You now have §r§6<value> §r§ain your account!§r":"§a你存入了<target>(1)！你账户中现在有<target>(0)！",
+  "§r§aYou have deposited §r§6<value>(1)§r§a! You now have §r§6<value>(0) §r§ain your account!§r":"§a你存入了<target>(1)！你账户中现在有<target>(0)！",
   " Coins":"硬币",
   "§8Depositing coins...":"§8存钱中…",
   "§cYou can't deposit this little!":"§c你不能只存入这么一点！",
@@ -308,7 +308,7 @@
   "§aSell Item":"§a出售物品",
   "§eClick to trade!":"§e点击进行交易！",
   "§eClick to show rankings!":"§e点击展示排名！",
-  "§r§aUsed §r§6<value>§r§a! §r§b(<value> Mana)§r":"§a已使用§6<value>(1)§a！§b（消耗<value>(0)法力）",
+  "§r§aUsed §r§6<value>§r§a! §r§b(<value> Mana)§r":"§a已使用§6<target>(1)§a！§b（消耗<target>(0)法力）",
   "§r§aWarped from the §r§e<value>§r§a to the §r§c<value>§r§a!§r":"§a已从§r<target>(1)§a传送至§r<traget>(0)§a！",
   "§r§cThere are blocks in the way!§r":"§c这个方向上有方块！",
   

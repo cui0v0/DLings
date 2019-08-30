@@ -306,6 +306,7 @@
   "§aSell Item":"§a出售物品",
   "§eClick to trade!":"§e点击进行交易！",
   "§eClick to show rankings!":"§e点击展示排名！",
+  "§r§aUsed §r§6<value>§r§a! §r§b(<value> Mana)§r":"§a已使用§6<value>(1)§a！§b（消耗<value>(0)法力）",
   
   "§aCollect All":"§a收集全部",
   "§eClick to collect all items!":"§e点击以收集所有的物品！",

@@ -310,7 +310,7 @@
   "§eClick to show rankings!":"§e点击展示排名！",
   "§r§aUsed §r§6<value>§r§a! §r§b(<value> Mana)§r":"§a已使用§6<value>(1)§a！§b（消耗<value>(0)法力）",
   "§r§aWarped from the §r§e<value>§r§a to the §r§c<value>§r§a!§r":"§a已从§r<target>(1)§a传送至§r<traget>(0)§a！",
-  "§r§cThere are blocks in the way!§r":"§c这个方向上有方块！"
+  "§r§cThere are blocks in the way!§r":"§c这个方向上有方块！",
   
   "§aCollect All":"§a收集全部",
   "§eClick to collect all items!":"§e点击以收集所有的物品！",

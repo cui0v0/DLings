@@ -1,5 +1,5 @@
 {
-  "§7View all of your SkyBlock":"§7浏览你在所有SkyBlock中的",
+  "§7View all of your SkyBlock":"§7浏览你在所有空岛生存中的",
   "§7progress, including your Skills,":"§7进展，包括你的技能，",
   "§7Collections, Recipes, and more!":"§7收集项目，配方以及更多！",
   "§aYou are playing on profile:": "§a你正在使用的存档：",
@@ -27,16 +27,16 @@
 
   "§7Teleports you to the main":"§7传送你到",
   "§7hub.":"§7主大厅",
-  "§7View and edit your SkyBlock":"§7展示和编辑你的SB",
-  "§7settings.":"§7设置。",
+  "§7View and edit your SkyBlock":"§7展示和编辑你的",
+  "§7settings.":"§7空岛生存设置。",
 
-  "§r§f§lWelcome to SkyBlock,": "§r§f§l欢迎来到SkyBlock,§r<center>",
+  "§r§f§lWelcome to SkyBlock,": "§r§f§l欢迎来到空岛生存,§r<center>",
   "§r§eThis is your island! The SkyBlock§r": "§r§e这是你的小岛! 在这里§r<center>",
   "§r§euniverse has many lands to discover,§r": "§r§e有很多岛屿需要你去探索,§r<center>",
   "§r§esecrets to uncover, and people to meet.§r": "§r§e有很多秘密需要你去发现,还有和这儿的人们对话§r<center>",
   "§r§eCollect resources, craft items, and§r": "§r§e收集资源 制作物品§r<center>",
   "§r§ecomplete objectives to advance your way§r": "§r§e在变得更强的道路上 同时完成任务§r<center>",
-  "§r§ethrough SkyBlock.§r": "§r§e通过SkyBlock.§r<center>",
+  "§r§ethrough SkyBlock.§r": "§r§e通过空岛生存。§r<center>",
   "§r§eHave fun!§r": "§r§e祝玩的开心！§r<center>",
   "§r§aYou received":"§r§a你收到了",
 
@@ -45,12 +45,12 @@
   "§7rewards.":"§7奖励。",
   "§aYour Skills":"§a技能",
   "§aCollection":"§a收集",
-  "§7View all of the items available":"§7展示你所有可以在SkyBlock",
+  "§7View all of the items available":"§7展示你所有可以在空岛生存",
   "§7in SkyBlock. Collect more of an":"§7中制作的物品. 在你发展",
   "§7item to unlock rewards on your":"§7的过程中收集更多物品",
   "§7way to becoming a master of":"§7解锁更多的奖励",
   "§7SkyBlock!":"<remove>",
-  "§aSkyBlock Menu §7(Right Click)":"§aSkyBlock菜单§7（右键点击）",
+  "§aSkyBlock Menu §7(Right Click)":"§a空岛生存菜单§7（右键点击）",
 
   "§f§lCOMMON":"§f§l普通",
   "§a§lUNCOMMON":"§a§l精良",
@@ -66,7 +66,7 @@
 
   "§7View your available trades.":"§7展示你可以交易的物品",
   "§7These trades are always":"§7交易没有次数限制",
-  "§7available and accessible through":"§7你可以使用SkyBlock菜单",
+  "§7available and accessible through":"§7你可以使用空岛生存菜单",
   "§7the SkyBlock Menu.":"§7访问",
 
   "§c❤ Health":"§c❤ 血量",
@@ -78,7 +78,7 @@
   "§b✎ Intelligence":"§b✎ 法力",
   "§7§eClick to view your profile!":"§7§e点击浏览你的信息!",
 
-  "§aYour SkyBlock Profile":"§a你的Skyblock信息",
+  "§aYour SkyBlock Profile":"§a你的空岛生存信息",
   "My Profile":"我的信息",
 
   "§7View your active quests,":"§7浏览你当前的",
@@ -277,7 +277,7 @@
   
   
   "Battle Pass EXP":"赛季通行证经验",
-  "§7Warping you to your SkyBlock island...":"§7正在将你传送回你的SkyBlock岛屿……",
+  "§7Warping you to your SkyBlock island...":"§7正在将你传送回你的空岛生存岛屿……",
   "§r§c§lSALE §r§f§lon the §r§c§lHYPIXEL STORE §r":"§r§f§l在§r§c§lHYPIXEL商城§r§f§l上§r§c§l商品大减价",
   "§7Sending to server ":"§7传送至服务器",
   "You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!":"你已经达到了你的Hype极限！通过右键点击Hype钻石来为游戏实验室里的小游戏添加Hype！",

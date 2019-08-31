@@ -272,6 +272,7 @@
   
   "§aGame Menu §7(Right Click)":"§a游戏菜单§7（右键点击）",
   "§aMy Profile §7(Right Click)":"§a个人档案§7（右键点击）",
+  "§a我的信息 §7(Right Click)":"§a个人档案§7（右键点击）",
   "§bHype Diamond":"§bHype钻石",
   " §ffound a ":"§f找到一个",
   
@@ -342,6 +343,8 @@
   "§cYou can't deposit this little!":"§c你不能只存入这么一点！",
   " was killed by ":"被击杀因为",
   " were killed by ":"被击杀因为",
+  "§r§7You burnt to death§r§7。":"§7你烧死了。",
+  " burnt to death§r§7。":"§7烧死了。",
   "§r§7.§r":"§r§7。§r",
   "§r§6§lMagma Cube Boss§r§7.§r":"岩浆怪Boss",
   "MAGMA CUBE BOSS":"岩浆怪Boss",

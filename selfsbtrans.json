@@ -326,7 +326,7 @@
   "§r§7You fell into the void§r§7.":"§7你坠入了虚空。",
   "§r§7You§7坠入了虚空。":"§7你坠入了虚空。",
   " fell into the void§r§7.":"§7坠入了虚空。",
-  " fell to their death with help from <value>§7。":"在<target>(0)的帮助下坠落致死。"
+  " fell to their death with help from <value>§7。":"在<target>(0)的帮助下坠落致死。",
   "§aClick to browse!":"§a点击以浏览！",
   "§eClick to sell!":"§e点击以卖出！",
   "§eClick to buy!":"§e点击以买回！",

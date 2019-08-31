@@ -316,11 +316,15 @@
   " were killed by ":"被击杀因为",
   "§r§7.§r":"§r§7。§r",
   "§r§6§lMagma Cube Boss§r§7.§r":"岩浆怪Boss",
+  "MAGMA CUBE BOSS":"岩浆怪Boss",
   " DOWN!":"已被击败！<center>",
   " dealt the final blow.":"完成了最后一击。",
   "Your Damage: ":"你的伤害：",
   " (NEW RECORD!) ":"（新纪录！）",
-  "(Position #":"(排名第"
+  "1st Damager":"输出第一名",
+  "2nd Damager":"输出第二名",
+  "3rd Damager":"输出第三名",
+  "(Position <value>)":"（排名 <target>(0)）"
   "Runecrafting Experience: ":"符文合成经验：",
   " (You need VIP or higher to earn":"你需要VIP或更高等级的贵宾等级",
   "     more!)":"以获取更多！）<center>",
@@ -365,7 +369,7 @@
   
   "§4[WATCHDOG ANNOUNCEMENT]":"§4[看门狗通告]",
   "Watchdog has banned ":"看门狗在过去的七天中已经封禁了",
-  "players players in the last 7 days.":"名玩家。",
+  " players in the last 7 days.":"名玩家。",
   "Staff have banned an additional ":"志愿者及管理员在过去的七天中已经额外封禁了",
   " in the last 7 days.":"名玩家。",
   "§cThis Minion does not have any items stored!":"§c这个仆从背包中没有存储任何物品！",

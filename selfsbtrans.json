@@ -312,8 +312,9 @@
   
   
   "§cYou can't deposit this little!":"§c你不能只存入这么一点！",
-  " was killed by <value>§r§7.§r":"被<target>(0)击杀§r§7。§r",
+  " was killed by ":"被击杀因为",
   " were killed by ":"被击杀因为",
+  "§r§7.§r":"§r§7。§r",
   "§r§6§lMagma Cube Boss§r§7.§r":"岩浆怪Boss",
   "MAGMA CUBE BOSS DOWN!":"岩浆怪Boss倒下了！<center>",
   " dealt the final blow.":"造成了最后一击。",
@@ -326,7 +327,7 @@
   "§r§7You fell into the void§r§7.":"§7你坠入了虚空。",
   "§r§7You§7坠入了虚空。":"§7你坠入了虚空。",
   " fell into the void§r§7.":"§7坠入了虚空。",
-  " fell to their death with help from <value>§7。":"在<target>(0)的帮助下坠落致死。",
+  " fell to their death with help from ":"坠落致死由于",
   "§aClick to browse!":"§a点击以浏览！",
   "§eClick to sell!":"§e点击以卖出！",
   "§eClick to buy!":"§e点击以买回！",

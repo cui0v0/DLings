@@ -574,8 +574,7 @@
   "§7games. Earn §bHype §7by playing":"§7通过游玩游戏实验室大厅中的小游戏获取§bHype！",
   "§7游戏实验室 Lobby minigames!":"",
   "§7Prototype Lobby minigames!":"",
-  " §ffound a ":"§f找到一个",
-  
+  " §ffound a ":"§f找到了一个",
   
   "Battle Pass EXP":"赛季通行证经验",
   "§7Warping you to your SkyBlock island...":"§7正在将你传送回你的空岛生存岛屿……",
@@ -740,7 +739,7 @@
   "§7View all of the Fishing Recipes":"§7浏览所有你已解锁的钓鱼衍生物品配方！",
   "§a附魔 Recipes":"§a附魔衍生物品配方",
   "§7View all of the 附魔 Recipes":"§7浏览所有你已解锁的附魔衍生物品配方！",
-    "§7浏览所有你已解锁的附魔衍生物品配方！that":"§7浏览所有你已解锁的附魔衍生物品配方！",
+  "§7浏览所有你已解锁的附魔衍生物品配方！that":"§7浏览所有你已解锁的附魔衍生物品配方！",
   "§a酿造 Recipes":"§a酿造衍生物品配方",
   "§7View all of the Alchemy Recipes":"§7浏览所有你已解锁的酿造衍生物品配方！",
   "§a木匠 Recipes":"§a木匠衍生物品配方",
@@ -865,6 +864,7 @@
   "§fPortal to Mushroom Island":"§f蘑菇岛屿传送门",
 
   "§7Farming Experience":"§7务农经验",
+  "§7Combat Experience":"§7战斗经验",
   
   "Enchanted Hopper":"附魔漏斗",
   "Ender Artifact":"末影圣物",
@@ -959,8 +959,21 @@
   " 錾制石砖":"錾制石砖",
   "§f桦木":"白桦木",
   "§f种子":"§f小麦种子",
-  "§e土豆":"§e马铃薯",
+  "§f土豆":"§f马铃薯",
   "§f双草丛":"§f高草丛"
+  "§fPotato":"§f马铃薯",
+  "§fCarrot":"§f胡萝卜",
+  "§fSeed":"§f小麦种子",
+  "§fMelon":"§f西瓜",
+  "§fSlime Block":"§f粘液块",
+  "§fSlimeball":"§f粘液球",
+  "§fBone":"§f骨头",
+  "§fRotten Flesh":"§f腐肉",
+  "§fSpider Eye":"§f蜘蛛眼",
+  "§fString":"§f线",
+  "§fMagma Cream":"§f岩浆膏",
+  "§fGhast Tear":"§f恶魂之泪",
+  "§fEnder Pearl":"§f末影珍珠"
  
 
 

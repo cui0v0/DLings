@@ -260,9 +260,9 @@
   "§7players. The most fast-paced":"<remove>",
   "§7combat on Hypixel.":"<remove>",
   
-  "§7Protect your bed along with your":"§7与你的队友并肩作战",
-  "§7teammates and destroy enemy beds":"§7保护你的床并",
-  "§7to win!":"§7摧毁敌人的床！",
+  "§7Protect your bed along with your":"§7与你的队友并肩作战保护你的床并摧毁敌人的床！",
+  "§7teammates and destroy enemy beds":"<remove>",
+  "§7to win!":"<remove>",
   
   "§7Hypixel's take on the SkyWars":"§7Hypixel独特的空岛战争玩法。",
   "§7gamemode. Featuring the Angel of":"§7特色包括死亡天使，灵魂井",
@@ -290,8 +290,8 @@
   "§7Create a build based on a theme":"§7在5分钟之内根据给定主题",
   "§7in just 5 minutes! Vote on":"§7建造一个建筑！用“传奇屎诗”到",
   "§7competing builds with ratings":"§7“传奇”的不同程度评级",
-  "§7ranging from \Super-Poop\ to":"§7对建成的建筑进行投票！",
-  "§7\Legendary\. Get the most votes":"§7在16名玩家中脱颖而出，取得胜利吧！",
+  "§7ranging from <value> to":"§7对建成的建筑进行投票！",
+  "§7<value>. Get the most votes":"§7在16名玩家中脱颖而出，取得胜利吧！",
   "§7out of 16 players to win!":"<remove>",
   
   "一款史诗级的百人游戏，":"§7一款史诗级的百人游戏，",

@@ -20,7 +20,7 @@
   "§aQuiver":"§a箭袋",
 
   "§7Teleports you back to your":"§7传送回到你的",
-  "§7private island.":"§a岛屿。",
+  "§7private island.":"§a岛屿",
   "§eClick to warp!":"§e点击传送",
   "§bWarp to: §aPrivate Island":"§b传送到：§a私人岛屿",
   "§bWarp to: §aHub Island":"§b传送到：§a中心岛屿",
@@ -767,6 +767,7 @@
   "§7Crit Damage":"§7暴击伤害",
   "§7Attack Speed":"§7攻击速度",
   "§7Health":"§7生命",
+  "§7生命加成":"§7生命",
   "§7Defense":"§7防御",
   "§7Speed":"§7速度",
   "§7Intelligence":"§7法力",
@@ -784,7 +785,6 @@
   "§amore unique Minions to unlock your":"§a更多不同种类的仆从以解锁你的",
   "Minion slot":"仆从位",
   "§7Progress: ":"§7进展：",
-  "Healing Boost":"恢复加成",
   "§6Item Ability:":"§6物品技能：",
   "§6Full Set Bonus:":"§6全套增益：",
   "Ender Warp":"末影传送",
@@ -831,7 +831,6 @@
   "Protector Blood":"守护血脉",
   "Superior Blood":"超级血脉",
 
-  
   "Auto Smelter":"自动冶炼机",
   "Small Backpack":"小型背包",
   "Medium Backpack":"中型背包",
@@ -883,6 +882,7 @@
   "§aEnchanted Cocoa Bean":"§a附魔可可豆",
   "§fEnchanted Red Mushroom":"§f附魔红色蘑菇",
   "§fEnchanted Brown Mushroom":"§f附魔棕色蘑菇",
+  "§aEnchanted Hopper":"§a附魔漏斗",
   
   "§9Wheat Minion":"§9小麦仆从",
   "§9Carrot Minion":"§9胡萝卜仆从",
@@ -896,8 +896,8 @@
   "§fPortal to Mushroom Island":"§f蘑菇岛屿传送门",
 
   "§7Farming Experience":"§7务农经验",
+  "§7Combat Experience":"§7战斗经验",
   
-  "Enchanted Hopper":"附魔漏斗",
   "Ender Artifact":"末影圣物",
   "§aFarmer Orb":"§a农夫宝珠",
   "§9Farm Crystal":"§9农业水晶",

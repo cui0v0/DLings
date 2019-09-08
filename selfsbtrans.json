@@ -655,6 +655,7 @@
   "struck you for §r§e":"袭击你造成了",
   "§r§c damage! Careful!§r":"§r§c伤害！当心！",
   "§r§cYou declined the trade!§r":"§c你拒绝了这场交易！",
+  "§r§cYour trade request to <value> has expired.§r":"§c你给<target>(0)发送的交易请求已过期。",
   "§cDecline trade":"§c拒绝交易",
   "§aAccept trade":"§a接受交易",
   

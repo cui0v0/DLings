@@ -988,10 +988,23 @@
   "Zombie's Heart":"僵尸之心",
   "§f史莱姆方块":"§f粘液块",
   " 錾制石砖":"錾制石砖",
-  "§f桦木":"白桦木",
+  "§f桦木":"§f白桦木",
   "§f种子":"§f小麦种子",
-  "§e土豆":"§e马铃薯",
-  "§f双草丛":"§f高草丛"
+  "§f土豆":"§f马铃薯",
+  "§f双草丛":"§f高草丛",
+  "§fPotato":"§f马铃薯",
+  "§fCarrot":"§f胡萝卜",
+  "§fSeed":"§f小麦种子",
+  "§fMelon":"§f西瓜",
+  "§fSlime Block":"§f粘液块",
+  "§fSlimeball":"§f粘液球",
+  "§fBone":"§f骨头",
+  "§fRotten Flesh":"§f腐肉",
+  "§fSpider Eye":"§f蜘蛛眼",
+  "§fString":"§f线",
+  "§fMagma Cream":"§f岩浆膏",
+  "§fGhast Tear":"§f恶魂之泪",
+  "§fEnder Pearl":"§f末影珍珠"
  
 
 

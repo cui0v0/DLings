@@ -783,8 +783,8 @@
   " more seconds.§r":"§c秒。",
   "§r§cYour Magical Mushroom Soup flight has expired!§r":"§c你的神奇蘑菇汤飞行已经到期！",
   "§r§cYour Magical Mushroom Soup flight expires in §r§e":"§c你的神奇蘑菇汤飞行将在§e",
-  " §r§c second!§r":"§c秒后到期！",
   "§r§aYou crafted a <value>! That's a new one!":"§a你合成了一个<target>(0)！那是新的一个！",
+  "§d§l The Dragon's Gate is weakening!":"§d§l龙之门正在衰弱！",
   
   "§aCollect All":"§a收集全部",
   "§eClick to collect all items!":"§e点击以收集所有的物品！",

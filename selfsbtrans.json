@@ -61,7 +61,7 @@
   "§f: §rIncreasing your Enchanting and Alchemy Skill Levels will permanently boost your §b<value>§r.§r":"§e[NPC] Jack§f：提高你的附魔和酿造技能等级将会永久地提升你的§b✎ 法力§f数值。",
   
   
-  "§r§aYou have just received ":"§a你刚刚收到了",
+  "§aYou have just received ":"§a你刚刚收到了",
   " coins §r§aas bank interest!§r":"§6硬币§a的银行利息！",
 
   "§eClick to view!":"§e点击浏览！",
@@ -83,6 +83,18 @@
   "§5§lEPIC":"§5§l史诗",
   "§6§lLEGENDARY":"§6§l传奇",
   "§d§lSPECIAL":"§d§l特殊",
+  "§f§lCOMMON ACCESSORY":"§f§l普通的配件",
+  "§a§lUNCOMMON ACCESSORY":"§a§l精良的配件",
+  "§9§lRARE ACCESSORY":"§9§l稀有的配件",
+  "§5§lEPIC ACCESSORY":"§5§l史诗的配件",
+  "§6§lLEGENDARY ACCESSORY":"§6§l传奇的配件",
+  "§d§lSPECIAL ACCESSORY":"§d§l特殊的配件",
+  "§f§l普通 ACCESSORY":"§f§l普通的配件",
+  "§a§l精良 ACCESSORY":"§a§l精良的配件",
+  "§9§l稀有 ACCESSORY":"§9§l稀有的配件",
+  "§5§l史诗 ACCESSORY":"§5§l史诗的配件",
+  "§6§l传奇 ACCESSORY":"§6§l传奇的配件",
+  "§d§l特殊 ACCESSORY":"§d§l特殊的配件",
 
   "§7Through your adventure, you will":"§7通过你的冒险你将解锁",
   "§7unlock recipes for all kinds of":"§7这些特殊物品的配方",
@@ -266,7 +278,7 @@
   "§7Stay alert for tournament announcements!":"§7请记得查收锦标赛通知！",
   "§7Everyone can participate, earn §6tributes":"§7每个人都可以参加锦标赛，",
   "§7and unlock some of the most §eprestigious":"§7赚取§6战魂§7来解锁Hypixel服务器上§e最稀有§7的奖励。",
-  "§7rewards on Hypixel.":"<remove>",
+  "§e§7rewards on Hypixel.":"<remove>",
   "§7Happened in ":"§7进行于",
   "§fLast tournament: §b":"§f最后一场锦标赛：§b",
   
@@ -334,7 +346,7 @@
   "参观其他玩家的建筑，":"§7参观其他玩家的建筑，",
   "以及更多不尽言传的乐趣！":"§7以及更多不尽言传的乐趣！",
   
-  "§7Crazy fun mini§7 to play with":"§7刺激有趣的街机小游戏，",
+  "§7Crazy fun minigames to play with":"§7刺激有趣的街机小游戏，",
   "§7friends!":"§7与小伙伴们一同开玩吧！",
   
   "§7Create a build based on a theme":"§7在5分钟之内根据给定主题",
@@ -347,7 +359,7 @@
   "§7Quick paced 1v1, 2v2, 4v4!":"§7快节奏的1v1，2v2或4v4！",
   
   "§7PTL is a place for testing fun":"§7游戏实验室是个测试并",
-  "§7and creative new mini§7 and":"§7创造欢笑及游戏的地方。",
+  "§7and creative new minigames and":"§7创造欢笑及游戏的地方。",
   "§7systems on Hypixel.":"<remove>",
   "§cEverything in this lobby is":"§c在这个大厅里的所有东西",
   "§ccurrently in development, and":"§c现都还处于在开发阶段，",
@@ -362,10 +374,10 @@
   "§cThis is a true hardcore experience, ":"§c你已进入极限区域，",
   "§cnot recommended for new players.":"§c不推荐给新手游玩。",
   
-  "§7Fun mini§7 with TNT involved!":"§7与TNT有关的有趣游戏！",
+  "§7Fun minigames with TNT involved!":"§7与TNT有关的有趣游戏！",
   
   "§7The Classic Lobby is the hub for":"§7Hypixel的经典之作在这齐聚一堂",
-  "§7all Classic Hypixel mini§7,":"§7让老游戏永久不衰，旗下的作品含：",
+  "§7all Classic Hypixel minigames,":"§7让老游戏永久不衰，旗下的作品含：",
   "§7including:":"<remove>",
   
   "§7Gun game inspired by the popular":"§7来自优秀的FPS动作射击游戏，《反恐精英》。",
@@ -655,7 +667,6 @@
   "struck you for §r§e":"袭击你造成了",
   "§r§c damage! Careful!§r":"§r§c伤害！当心！",
   "§r§cYou declined the trade!§r":"§c你拒绝了这场交易！",
-  "§r§cYour trade request to <value> has expired.§r":"§c你给<target>(0)发送的交易请求已过期。",
   "§cDecline trade":"§c拒绝交易",
   "§aAccept trade":"§a接受交易",
   
@@ -800,8 +811,6 @@
   "§7you have unlocked!":"<remove>",
   "§7至<value> Collection":"§7至<target>(0)收集项",
   "§7至SkyBlock Menu":"§7至空岛生存菜单",
-  "§7Fight mobs and players to earn":"§7战胜生物及玩家",
-  "§7Combat XP!":"§7以获取战斗经验！",
  
   "§aAlchemy":"§a酿造",
   "§aCarpentry":"§a木匠",
